@@ -1,0 +1,14 @@
+/**
+ * Rutas de productos
+ * GET /api/productos -> listar
+ * POST /api/productos -> crear (sin protección por ahora)
+ */
+
+const express = require('express');
+const router = express.Router();
+const productoController = require('../controllers/productoController');
+
+router.get('/', productoController.obtenerProductos);
+router.post('/', productoController.crearProducto);
+
+module.exports = router;

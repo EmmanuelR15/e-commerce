@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 f3a4d9fda4189bd44b5509275a3140c742819d37 EmmanuelR15 <emmausruiz@gmail.com> 1762217639 -0300	commit (initial): first commitz
+f3a4d9fda4189bd44b5509275a3140c742819d37 12f136016dec9db56e7d87f22d4e41ff58f32821 EmmanuelR15 <emmausruiz@gmail.com> 1762226998 -0300	commit: feat: sistema de autenticación con JWT, bcrypt y validaciones
